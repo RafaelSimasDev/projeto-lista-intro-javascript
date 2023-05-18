@@ -201,3 +201,5 @@ function checaValidadeInscricaoLabenu() {
   // console.log(pergunta1 === `sim` && pergunta2 === `sim` && pergunta3 === `sim`)
     
 }
+
+//finalizado
