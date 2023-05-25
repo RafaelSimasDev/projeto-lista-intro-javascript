@@ -202,4 +202,26 @@ function checaValidadeInscricaoLabenu() {
     
 }
 
-//finalizado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//MENSAGEM PARA SER IGNORADA
+function testando (nome) {
+  return nome
+}
+testando('uma mensagem aleatória')
+
